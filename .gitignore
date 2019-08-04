@@ -1,0 +1,7 @@
+
+# Elastic Beanstalk Files
+app/.elasticbeanstalk/*
+!app/.elasticbeanstalk/*.cfg.yml
+!app/.elasticbeanstalk/*.global.yml
+.idea/
+.venv/
