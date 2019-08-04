@@ -1,0 +1,11 @@
+django==2.1.10
+djangorestframework
+djangorestframework-gis
+django-rest-swagger
+django-cors-headers
+psycopg2-binary
+pytest
+pytest-django
+shapely
+awsebcli
+django-dynamic-fixture
