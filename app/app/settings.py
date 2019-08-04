@@ -87,7 +87,7 @@ REST_FRAMEWORK = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'HOST': 'localhost',
+        'HOST': 'nx.mindrunner.de',
         'PORT': '5434',
         'NAME': 'postgres',
         'USER': 'postgres',
