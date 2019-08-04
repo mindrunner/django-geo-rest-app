@@ -95,7 +95,7 @@ DATABASES = {
     }
 }
 AUTH_USER_MODEL = "core.Provider"
-
+AWS_DEFAULT_ACL = None
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
